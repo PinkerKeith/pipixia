@@ -630,6 +630,11 @@ header {
     padding: 40px 20px;
     border: 1px solid #EEE;
     margin: 15px 0px;
+    height: 400px;
+}
+
+.about p{
+    line-height: 2.6rem
 }
 
 .about i {
@@ -967,7 +972,7 @@ header {
 
 .testimonial-meta {
     position: relative;
-    padding-left: 90px;
+    /* padding-left: 90px; */
     height: 70px;
     margin-bottom: 20px;
     padding-top: 10px;
