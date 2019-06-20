@@ -32,6 +32,6 @@
 
 
 
-#### [[:fa-heart:点击查看:fa-heart:] 团队介绍][1]
+#### [[&hearts;点击查看&hearts;] 团队介绍][1]
 
 [1]: https://pinkerkeith.github.io/pipixia/ "团队介绍官网"
